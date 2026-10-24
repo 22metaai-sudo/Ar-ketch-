@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AR Trace</string>
+    <string name="title_ar_studio">AR Trace Studio</string>
+    <string name="title_templates">Trace Gallery</string>
+    <string name="title_recordings">Timelapse Gallery</string>
+    <string name="title_guide">Calibration &amp; Stand Setup</string>
+</resources>

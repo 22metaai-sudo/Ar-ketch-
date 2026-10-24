@@ -1,0 +1,8 @@
+{
+  "name": "Remix AR Trace",
+  "description": "AR Drawing \u0026 Sketch Tracking with 6DOF persistent anchor, projection lock, edge detection filters, torch control, and time-lapse recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
